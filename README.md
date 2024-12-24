@@ -25,4 +25,4 @@ Full Stack Development
 Backend Development
 📫 Let’s connect:
 
-[https://www.linkedin.com/in/mohammed-iqbal-khan-63413b205/](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/mohammed-iqbal-khan-63413b205/)
