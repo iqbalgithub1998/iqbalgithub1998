@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @iqbalgithub1998
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning MERN STACK
+👋 Hi, I’m Iqbal
+🌟 A passionate Full Stack Developer with a knack for solving complex problems and building scalable web applications.
 
+👀 Interested in:
 
-<!---
-iqbalgithub1998/iqbalgithub1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Continuous learning and exploring cutting-edge technologies.
+Enhancing user experiences through innovative solutions.
+
+🌱 Currently improving:
+
+Advanced JavaScript frameworks like React, Angular.
+Backend technologies like Node.js, Express.
+DevOps tools for efficient CI/CD pipelines.
+
+🚀 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, React, Angular and flutter 
+Backend: Node.js, Express
+Databases: MongoDB, MySQL, PostgreSQL
+Tools & Platforms:  Git, AWS
+
+💼 Open to new opportunities in:
+
+Full Stack Development
+Backend Development
+📫 Let’s connect:
+
+[https://www.linkedin.com/in/mohammed-iqbal-khan-63413b205/](LinkedIn)
